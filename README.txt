@@ -1,3 +1,3 @@
-NFL game score predictor
+Simple model that predicts NFL scores
 
-I'm 6/6 so far (10/18)
+We'll call it informed betting
