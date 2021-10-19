@@ -1,0 +1,3 @@
+- Predict over/under! Could be just as valuable as spread!
+- Make a more complex model: run/pass defense/offense breakdowns, more intricate statistics, etc.
+  - Do some research into statistics that are good football game predictions
