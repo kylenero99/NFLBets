@@ -1,6 +1,11 @@
-- Predict over/under! Could be just as valuable as spread!
 - Make a more complex model: run/pass defense/offense breakdowns, more intricate statistics, etc.
   - Do some research into statistics that are good football game predictions
-- Switch to object oriented approach. Create instances of team, game, etc.
+  - Implement RBSDM
+  
+- Feature engineering: Points for average, points for std, points against average, points against std, pd avg, pd std, etc.
 - Scale prediction based on distribution of games thus far this year. This allows for adjusting to yearly changes in the game such as rule changes.
 - Try an SGD regressor instead of a linear regressor and try different loss functions.
+- Try a random forest classifier.
+
+- Implement cookie cutter approach- one run file and all .py files
+- Implement automatic execution of file each Tuesday night
