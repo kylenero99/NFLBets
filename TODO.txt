@@ -2,4 +2,5 @@
 - Make a more complex model: run/pass defense/offense breakdowns, more intricate statistics, etc.
   - Do some research into statistics that are good football game predictions
 - Switch to object oriented approach. Create instances of team, game, etc.
-- Scale prediction based on distribution of games thus far this year. This allows for 
+- Scale prediction based on distribution of games thus far this year. This allows for adjusting to yearly changes in the game such as rule changes.
+- Try an SGD regressor instead of a linear regressor and try different loss functions.
